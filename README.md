@@ -1,4 +1,5 @@
 # 📔 algorithm-study
+달씨 알고리즘 스터디 저장소입니다.
 
 ## 👩🏻‍💻 참여자
 <a href="https://github.com/hijyun">
