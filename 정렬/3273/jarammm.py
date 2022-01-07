@@ -4,7 +4,7 @@ num = int(input())
 cnt = 0
 lst.sort()
 
-# 이진 탐색
+# two pointer
 l, r = 0, n-1
 while l != r:
     if lst[l] + lst[r] == num:
