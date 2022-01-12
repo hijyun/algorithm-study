@@ -11,3 +11,4 @@ print(*ans) # *연산자는 리스트 unpacking 할 때 사용
 
 # for i in ans:
 #     print(i, end=" ")
+
