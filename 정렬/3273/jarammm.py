@@ -4,6 +4,11 @@ num = int(input())
 cnt = 0
 lst.sort()
 
+# for i in range(n-1):
+#     for j in range(i+1,n):
+#         if lst[i] + lst[j] == num:
+#             cnt += 1
+
 # two pointer
 l, r = 0, n-1
 while l != r:
