@@ -46,9 +46,9 @@
 * ```main```은 해당 온라인 모임시 진행자가 관리한다.
 
 ## 목차
-* 1주차 : <a href="https://github.com/hijyun/algorithm-study/tree/main/정렬">정렬</a>
-* 2주차 : <a herf="https://github.com/hijyun/algorithm-study/tree/main/분할정복"> 선택 알고리즘</a>
-* 3주차 : <a herf="https://github.com/hijyun/algorithm-study/tree/main/트리">검색트리</a>
+* 1주차 : [정렬](https://github.com/hijyun/algorithm-study/tree/main/정렬)
+* 2주차 : [선택 알고리즘](https://github.com/hijyun/algorithm-study/tree/main/분할정복)
+* 3주차 : [검색 트리](https://github.com/hijyun/algorithm-study/tree/main/트리)
 * 4주차 : 해쉬테이블
 * 5주차 : 그래프
 * 6주차 : 문자열
