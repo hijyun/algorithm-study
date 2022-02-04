@@ -49,8 +49,8 @@
 * 1주차 : [정렬](https://github.com/hijyun/algorithm-study/tree/main/정렬)
 * 2주차 : [선택 알고리즘](https://github.com/hijyun/algorithm-study/tree/main/분할정복)
 * 3주차 : [검색 트리](https://github.com/hijyun/algorithm-study/tree/main/트리)
-* 4주차 : 해쉬테이블
-* 5주차 : 그래프
+* 4주차 : [해시테이블](https://github.com/hijyun/algorithm-study/tree/main/해시)
+* 5주차 : [그래프](https://github.com/hijyun/algorithm-study/tree/main/)
 * 6주차 : 문자열
 * 7주차 : 동적프로그래밍
 * 8주차 : 그리디
