@@ -1,4 +1,4 @@
-#https://hongcoding.tistory.com/44
+#참고: https://hongcoding.tistory.com/44
 import sys
 from collections import deque
 
@@ -10,7 +10,7 @@ for i in range(t):
     arr = sys.stdin.readline().rstrip()[1:-1].split(",") #대괄호 떼고, ","로 원소를 구분하여 저장
     queue = deque(arr) #앞뒤로 pop이 가능한 deque로 배열 저장
     
-    rev = len(queue)-1 #R함수 실행 횟수 체크, 매번 reverse하면 시간초과 발생하여, 횟수 체크하여 나중에 한번에 뒤집기
+    rev = 0 #R함수 실행 횟수 체크, 매번 reverse하면 시간초과 발생하여, 횟수 체크하여 나중에 한번에 뒤집기
     flag = 0 #에러 체크(에러 없으면 0, 있으면 1)
     if n == 0: #배열에 아무 원소도 없으면, 빈 큐
         queue = []
