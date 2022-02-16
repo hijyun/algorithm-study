@@ -1,4 +1,3 @@
-# 주소를 이진수로 나타내면 숫자가 64개
 n = int(input())
 for _ in range(n):
     style, pattern = input().split()
