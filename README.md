@@ -1,6 +1,9 @@
 # 📔 algorithm-study
 달씨 알고리즘 스터디 저장소입니다.
-
+ 
+<br>
+<br>
+ 
 ## 👩🏻‍💻 참여자
 <a href="https://github.com/hijyun">
 <img src="https://avatars.githubusercontent.com/u/54613024" alt="drawing" width="80"> 
@@ -17,6 +20,10 @@
 <a href="https://github.com/mikaniz">
 <img src="https://avatars.githubusercontent.com/u/92143119" alt="drawing" width="80"> 
 </a>
+ 
+<br>
+<br>
+ 
 
 ## 🌱 진행 방식 
 * 진행 방식은 다음과 같다.
@@ -27,6 +34,10 @@
     3. 공유 및 피드백
   * 진행 순서 : **설아 -> 세원 -> 수연 -> 지현 -> 진아**
 
+ 
+<br>
+<br>
+ 
 ## 🌿 폴더 구조
 * 폴더 구조는 ```알고리즘 분류 폴더 - 문제 폴더 - 소스코드 + 풀이 방법 파일 ``` 이다.
   *  알고리즘 분류 폴더
@@ -37,26 +48,51 @@
       *   예) ```hijyun.py```,```hijyun.java```
   * 풀이방법 : 자신의 ```이름``` 혹은 ```아이디``` + ```_풀이방법.md```
       *   예) ```hijyun_풀이방법.md```
+      
+<br>
+<br>
+ 
 
 ## 🌳 Commit Rule
 * 각자의 이름을 딴 ```branch```를 생성한다.
 * ```commit message```는 자유롭게 한다.
 
+ 
+<br>
+<br>
+ 
+
 ## 🍀 PullRequest(PR) Rule
 * ```main```은 해당 온라인 모임시 진행자가 관리한다.
+
+ 
+<br>
+<br>
+ 
 
 ## 목차
 * 1주차 : [정렬](https://github.com/hijyun/algorithm-study/tree/main/정렬)
 * 2주차 : [선택 알고리즘](https://github.com/hijyun/algorithm-study/tree/main/분할정복)
 * 3주차 : [검색 트리](https://github.com/hijyun/algorithm-study/tree/main/트리)
 * 4주차 : [해시테이블](https://github.com/hijyun/algorithm-study/tree/main/해시)
-* 5주차 : [그래프](https://github.com/hijyun/algorithm-study/tree/main/)
-* 6주차 : 문자열
-* 7주차 : 동적프로그래밍
-* 8주차 : 그리디
+* 5주차 : [그래프](https://github.com/hijyun/algorithm-study/tree/main/그래프)
+* 6주차 : [그래프](https://github.com/hijyun/algorithm-study/tree/main/그래프)
+* 7주차 : [문자열](https://github.com/hijyun/algorithm-study/tree/main/문자열)
+* 8주차 : [동적프로그래밍](https://github.com/hijyun/algorithm-study/tree/main/DP)
+* 9주차 : [그리디](https://github.com/hijyun/algorithm-study/tree/main/)
+
+ 
+<br>
+<br>
+ 
 
 ## 함께 공부한 사이트
 * baekjoon: https://www.acmicpc.net/
+
+ 
+<br>
+<br>
+ 
 
 ## reference
 * https://github.com/epicarts/algorithm-study
