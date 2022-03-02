@@ -21,8 +21,8 @@
 <img src="https://avatars.githubusercontent.com/u/92143119" alt="drawing" width="80"> 
 </a>
  
-<br>
-<br>
+</br>
+</br>
  
 
 ## 🌱 진행 방식 
@@ -78,8 +78,8 @@
 * 5주차 : [그래프](https://github.com/hijyun/algorithm-study/tree/main/그래프)
 * 6주차 : [그래프](https://github.com/hijyun/algorithm-study/tree/main/그래프)
 * 7주차 : [문자열](https://github.com/hijyun/algorithm-study/tree/main/문자열)
-* 8주차 : [동적프로그래밍](https://github.com/hijyun/algorithm-study/tree/main/DP)
-* 9주차 : [그리디](https://github.com/hijyun/algorithm-study/tree/main/)
+* 8주차 : [동적프로그래밍](https://github.com/hijyun/algorithm-study/tree/main/동적프로그래밍)
+* 9주차 : [그리디](https://github.com/hijyun/algorithm-study/tree/main/그리디)
 
  
 <br>
